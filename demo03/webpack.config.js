@@ -1,3 +1,5 @@
+//Demo03: Babel-loader (source)
+
 module.exports = {
     entry:'./main.jsx',
     output:{
